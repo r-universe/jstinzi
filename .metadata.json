@@ -1,0 +1,10 @@
+[
+  {
+    "package": "plantecowrap",
+    "oncran": true
+  },
+  {
+    "package": "racir",
+    "oncran": true
+  }
+]
