@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "plantecowrap"]
-	path = plantecowrap
-	url = https://github.com/jstinzi/plantecowrap
 [submodule "racir"]
 	path = racir
 	url = https://github.com/jstinzi/racir
